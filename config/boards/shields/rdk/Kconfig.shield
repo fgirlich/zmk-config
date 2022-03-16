@@ -1,0 +1,5 @@
+config SHIELD_RDK_LEFT
+	def_bool $(shields_list_contains,rdk_left)
+
+config SHIELD_RDK_RIGHT
+	def_bool $(shields_list_contains,rdk_right)
