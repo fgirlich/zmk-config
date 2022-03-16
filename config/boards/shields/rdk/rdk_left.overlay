@@ -1,4 +1,4 @@
-#include "redox.dtsi"
+#include "rdk.dtsi"
 
 &kscan0 {
     row-gpios

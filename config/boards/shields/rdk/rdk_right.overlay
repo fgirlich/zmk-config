@@ -1,4 +1,4 @@
-#include "redox.dtsi"
+#include "rdk.dtsi"
 
 &default_transform {
     col-offset = <7>;
